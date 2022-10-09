@@ -1,0 +1,10 @@
+Threads
+Managed by OS
+Fixed stack - 1 MB
+
+Goroutines
+Managed by Go runtime
+Flexible stack - 2KB
+
+
+-> Do not communicate by sharing memory; instead, share memory by communicating.
